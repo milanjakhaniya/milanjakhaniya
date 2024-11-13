@@ -2,10 +2,10 @@
 
 ### Hello 🌎, I'm Milan Jakhaniya
 
-I'm a dedicated Full Stack Python Developer with a strong background in creating business-to-client web solutions, REST API development, and automation for big data analytics. My passion lies in writing clean, efficient code and bringing innovative solutions to life. Whether it's developing robust backend services with Django or deploying scalable applications on AWS, I'm always eager to contribute to a team's success and continuously grow in the tech industry. Let's build something amazing together! 🚀
+I'm a dedicated Full Stack Python Developer with a strong background in creating business-to-client web solutions, REST API development and web hosting. My passion lies in writing clean, efficient code and bringing innovative solutions to life. Whether it's developing robust backend services with Django or deploying scalable applications on AWS, I'm always eager to contribute to a team's success and continuously grow in the tech industry. Let's build something amazing together! 🚀
 
 - 🔭 I’m currently working on business solutions at **Appwelt Pvt Ltd**.
-- 🌱 I’m currently learning: **Advanced AWS, Microservices, Docker**.
+- 🌱 I’m currently learning: **Advanced AWS, AI/ML, Docker**.
 - 💬 Ask me about **Python, Django, REST APIs, AWS, Web Hosting**.
 
 <h3 align="left">Connect with me:</h3>
